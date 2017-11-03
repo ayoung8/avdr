@@ -1,0 +1,484 @@
+A  {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-size:10px;
+	text-decoration : none;	
+}
+
+A.info  {
+	text-decoration : underline;
+	font-size : 8pt;
+	color : #336699;
+	font-family : arial, helvetica, sans-serif;
+}
+
+A.info:visited  {
+	color : #000099;
+}
+
+A.info:hover  {
+	color : black;
+}
+
+A.Text:link {
+	color : black;
+}
+
+A.menu:link {
+	color : #FFFFFF;
+}
+
+A.menu:hover {
+	color : F8CC30;
+
+}
+
+
+A.menuBar, A.menuBar:hover, A.menuBar:visited  {
+	width: 100%; height: 100%;
+	line-height : 8pt;
+	text-decoration : none;
+	color : black;
+}
+
+A.quickM  {
+	text-decoration : none;
+	color : #000099;
+	font-size : 0.9em;
+}
+
+A.quickM:visited  {	color : #000099; }
+
+A.quickM:hover  { text-decoration : underline; }
+
+A.topIndex  {
+	color : #000099;
+	font-size : 0.9em;
+}
+
+A.topIndex:visited  { color : #000099; }
+
+A.footer, A.footer:visited  {
+	font-size : 0.9em;
+	color : #000099;
+}
+
+A.noLine  { text-decoration: none; }
+
+
+A.NoteArrow {
+	text-decoration : none;
+	font-size : 8pt;
+	color : #000066;
+	font-family : arial, helvetica, sans-serif;
+}
+
+A.Edit {
+	text-decoration : underline;
+	font-size : 8pt;
+	color : #000066;
+	font-family : arial, helvetica, sans-serif;
+}
+
+BODY  {
+	font-family : arial, helvetica, sans-serif;
+	font-size : 8pt;
+	color: #000000;
+	background: #FFFFFF;
+	margin-top : 0pt;
+	margin-left : 0px;
+	padding-top : 0px;
+	margin-right : 0px;
+	padding-right : 0px;
+}
+.BODY2  {
+	z-index:110;
+	font-family : Webdings;
+	background: red;
+	margin-top : 0pt;
+	margin-left : 0px;
+	padding-top : 0px;
+	margin-right : 0px;
+	padding-right : 0px;
+}
+
+H1, H2, H3, H4  {
+	font-weight : bold;
+	font-family : arial, sans-serif;
+}
+
+H1 {
+	font-size : 200%;
+	color : #000099;
+}
+
+H2 {
+	font-size : 150%;
+}
+
+H3 {
+	font-size : 100%;
+}
+
+td  {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+}
+
+td.Regular {
+	font-size : 2pt;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color : yellow;
+
+}
+
+td.ErrMsg {
+	font-size : 8pt;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color : navy;
+
+}
+
+td.rowTitlegrey{
+	font-size : 8pt;
+	color : #000000;
+	background-color : #CCCCCC;
+	font-weight : bold;
+}
+tr.rowTitlegrey{
+	font-size : 8pt;
+	color : #000000;
+	background-color : #CCCCCC;
+	font-weight : bold;
+}
+td.rowTitlegrey2{
+	font-size : 8pt;
+	color : #CC0000;
+	background-color : #CCCCCC;
+	font-weight : bold;
+}
+
+
+td.rowTitleFeedback2{
+	font-size : 8pt;
+	color : #CC0000;
+	background-color : #ffffff;
+	font-weight : bold;
+}
+td.bodyWhite{
+	font-size : 8pt;
+	color : #000000;
+	background-color : #FFFFFF;
+}
+td.grey{
+	
+	background-color : #CCCCCC;
+	
+}
+
+td.txtMenu{
+	font-family: Helvetica,Verdana, Geneva, Arial, sans-serif;
+	color : #000000;
+	text-align : left;
+	background-color : #408080;
+	font-size : 12px;
+	font-weight : bold;
+}
+
+td.txtLog{
+	font-family: Helvetica,Verdana, Geneva, Arial, sans-serif;
+	color : #000000;
+	text-align : left;
+	background-color : #B2B2B2;
+	font-size : 8px;
+}
+
+
+td.usrname{
+	font-size : 8pt;
+	color : #000066;
+	font-weight : bold;
+	text-align : right;
+
+}
+
+
+td.rowTitle{
+	font-size : 8pt;
+	color : #ffffff;
+	font-weight : bold;
+	text-align : center;
+	background-color : #000066;
+	padding : 0pt;
+}
+
+td.rowTitleFeedback{
+	font-size : 8pt;
+	color : #ffffff;
+	font-weight : bold;
+	text-align : center;
+	background-color : #000066;
+	padding : 0pt;
+}
+td.Feedback2{
+	font-size : 8pt;
+	color : #000000;
+	text-align : center;
+	background-color : #ffffff;
+	padding : 0pt;
+}
+
+td.rowTitle2Bkp{
+	font-size : 8pt;
+	color : #000000;
+	font-weight : bold;
+	text-align : center;
+	background-color : #C9C4A5;
+	padding : 0pt;
+}
+
+td.rowTitle2{
+	font-size : 8pt;
+	color : #000000;
+	font-weight : bold;
+	text-align : center;
+	background-color : #CCCCCC;
+	padding : 0pt;
+	
+}
+
+td.rowTitle3{
+	font-size : 8pt;
+	color : #ffffff;
+	font-weight : bold;
+	text-align : center;
+	background-color : #761315;
+	padding : 0pt;
+}
+
+td.rowTitle4{
+	font-size : 8pt;
+	color : #ffffff;
+	font-weight : bold;
+	text-align : center;
+	background-color : #DAD9D0;
+	padding : 0pt;
+}
+
+td.rowTitle5{
+	color : black;
+	text-align : center;
+	background-color : #EAEBE7;
+}
+
+td.rowTitle6{
+	font-size : 8pt;
+	color : #ffffff;
+	font-weight : bold;
+	background-color : #000066;
+
+}
+
+td.MyFairsBkp{
+	font-size : 8pt;
+	color : black;
+	background-color : #EAEBE7;
+}
+
+td.MyFairs{
+	font-size : 8pt;
+	color : #000000;
+	background-color : #FFFFFF;
+}
+
+td.MyTxtFairs{
+	font-size : 8pt;
+	color : black;
+	font-weight : bold;
+	background-color : #000066;
+}
+
+
+td.instMenu  {
+	font-size : 8pt;
+	color : #FFFFFF;
+	font-weight : bold;
+	text-align : center;
+	background-color : #000099;
+	padding : 0pt;
+}
+
+td.instMenu2  {
+	font-size : 8pt;
+	color : #FFFFFF;
+	font-weight : bold;
+	text-align : center;
+	background-color : #000099;
+}
+
+td.commonMenuF  {
+	color : #FFFFFF;
+	font-weight : bold;
+	text-align : center;
+	background-color : #000000;
+	font-size : 8pt;
+}
+
+td.commonMenu  {
+	color : #FFFFFF;
+	font-weight : bold;
+	text-align : center;
+	background-color : #000000;
+	font-size : 8pt;
+}
+
+tr.Report {
+	background-color : #000066;
+	font-weight : bold;
+	color : #FFFFFF;
+
+}
+
+P {
+	font-family: arial, helvetica, sans-serif;
+	font-size : 8pt;
+}
+
+P.calendarListingCity {
+	margin-left: 2em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+P.calendarListingDet {
+	margin-left: 2em;
+	margin-top: 0;
+}
+
+P.mainPageLeftIndex {
+	line-height: 0.9em;
+	margin-top: 0.4em;
+	margin-bottom: 0.4em;
+}
+
+span.redcalhead {
+	color : #FF0000;
+	font-size: 1.2em;
+	font-weight : bold;
+}
+
+span.blackcalhead {
+	color : #000000;
+	font-size: 1.2em;
+	font-weight : bold;
+}
+
+.fsize {
+	font-size: 0.8em;
+}
+
+.NoteLink {
+	text-decoration : underline;
+	font-size : 8pt;
+	color : #000066;
+	font-family : arial, helvetica, sans-serif;
+}
+
+@media print {
+	@page { margin: 10% }
+	H1, H2, H3, H4, H5, H6 { page-break-after: avoid; page-break-inside: avoid }
+	BLOCKQUOTE, UL, OL, DL { page-break-before: avoid }
+}
+
+@media aural {
+	H1, H2, H3, H4, H5, H6 { voice-family: paul, male; stress: 20; richness: 90 }
+	H2 { pitch: x-low; pitch-range: 80 }
+	H3 { pitch: low; pitch-range: 70 }
+	H4 { pitch: medium; pitch-range: 60 }
+	H5 { pitch: medium; pitch-range: 50 }
+	H6 { pitch: medium; pitch-range: 40 }
+	LI, DT, DD { pitch: medium; richness: 60 }
+	DT { stress: 80 }
+	STRONG { pitch: medium; pitch-range: 60; stress: 90; richness: 90 }
+	I { pitch: medium; pitch-range: 60; stress: 60; richness: 50 }
+	B { pitch: medium; pitch-range: 60; stress: 90; richness: 90 }
+	U { richness: 0 }
+	
+	A:link { voice-family: harry, male }
+	A:visited { voice-family: betty, female }
+	A:active { voice-family: betty, female; pitch-range: 80; pitch: x-high }
+}
+td.ReportBox {
+	background-color : #000066;
+	font-weight : bold;
+	color : #FFFFFF;
+}
+td.SortField {
+	color : red;
+	font-size : 8pt;
+	font-weight : bold;
+	text-align : center;
+	background-color : #CCCCCC;
+	padding : 0pt;
+}
+td.TourDesc {
+	color : #000000;
+	font-size : 8pt;
+}
+
+td.Feedback{
+	background-color : #CBC6A3;
+}
+
+input.radio{
+background : #CBC6A3; 
+color: #CBC6A3;
+}
+
+input.radio1{
+background : #9999CC; 
+color: #9999CC;
+}
+input.radioFeedback{
+background:#FFFFFF;
+color : #FFFFFF;
+}
+
+td.Feedback1{
+	color : #000000;
+	background-color : #CCCCCC;
+	font : normal Arial;
+	font-weight : bold;
+	font-size : 8pt;
+}
+.tableBorder {
+	
+	border-top: solid #000080 2px;
+	border-left: solid #000080 2px;
+	border-right: solid #000080 2px;
+	border-bottom: solid #000080 2px;
+}
+
+.button  {
+	color : #000066;
+	font-weight : bold;
+	text-align : center;
+	font-size : 8pt;
+}
+#menuBar {position: relative; font-family: Verdana, sans-serif; font-weight: bolder; font-size: 8px; cursor: hand; background:#408080; z-index: 10}
+/* Style for the top-level menu items */																											
+#menuBar .root {font-weight: bolder; color:white; border: 1px white solid; padding-left: 2pt; padding-right: 0pt; background: #336699; z-index: 10}
+/* Style for nested menus */
+#menuBar TABLE {font-family: Tahoma; font-weight: bolder; font-size: 8px; margin: 0pt; padding: 0pt; background:#336699 ; border-left: 2px #EEEEEE solid; border-right: 2px gray solid; border-bottom: 2px gray solid; border-top: 2px #EEEEEE solid; display: none; position: absolute; z-index: 100}
+#menuBar TABLE TD {color:white; padding-top: 2pt; padding-bottom: 2pt; padding-left: 5pt; padding-right: 1pt; margin: 0pt; z-index: 100 }
+/* Style for highlighted elements */
+#menuBar .highlight {font-weight: bolder; color:yellow ; background:#408080; z-index: 100}
+/* Style for highlighting disabled elements */
+#menuBar .disabledhighlight {background: navy; color: gray; z-index: 100}
+/* Style for disabled and break elements */
+#menuBar #break, #menubar .disabled {color: gray; z-index: 100 }
+/* Remove padding and margins for break elements (horizontal bars) */
+#menuBar #break {padding: 0pt; margin: 0pt; z-index: 100}
+/* Style for the arrow representing more choices */
+#menuBar .more {font: 8pt webdings; position: relative; height: 9pt; left: 5pt; top: -2pt; margin: 0pt; padding: 0pt;float: right; width: .8em; z-index: 100}
+#menuBar .left {margin-left: -11pt; z-index: 100}
